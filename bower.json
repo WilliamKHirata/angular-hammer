@@ -9,6 +9,6 @@
   ],
   "dependencies": {
     "angular": ">=1.0.6",
-    "hammerjs": "1.1.1"
+    "hammerjs": "https://github.com/hyukjae87/hammer.js.git#1fc0d0e700a5f4564eb0fb4b0489943da70e0b4b"
   }
 }
